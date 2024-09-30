@@ -14,7 +14,7 @@ This is a simple **To-Do List App** built with **React**. The app allows users t
 
 ## Screenshots
 
-![App Screenshot](path/to/your/screenshot.png)
+![App Screenshot](https://github.com/kramprakash2005/to-do-list/blob/aad19bce903955cccfaf9ec60cabf0ad49e5f78e/Screenshot%202024-09-30%20155803.png)
 
 ---
 
